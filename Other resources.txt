@@ -1,0 +1,9 @@
+https://juliabyexample.helpmanual.io/
+
+https://www.phys.uconn.edu/~rozman/Courses/m3511_18s/julia.html
+
+https://github.com/icme/cme257-advanced-julia/
+
+http://docs.junolab.org/latest/man/installation/
+
+https://blog.vietnamlab.vn/2017/12/22/gioi-thieu-co-ban-ve-ngon-ngu-julia/
